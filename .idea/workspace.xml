@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d53a83fc-9c53-4052-b104-578a4fdbc22b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/feast/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/feast/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/feast/models/Camel8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/feast/models/Camel8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/feast/models/Horse7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/feast/models/Horse7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/feast/models/Lamb5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/feast/models/Lamb5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/feast/models/Pig4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/feast/models/Pig4.java" afterDir="false" />
-    </list>
+    <list default="true" id="864cc6f1-6c10-47b2-93ee-5fd82edf09a1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +54,6 @@
     "JUnit.MainTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "task__2__1__5",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
